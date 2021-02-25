@@ -1,0 +1,3 @@
+g++ -c UnitFunctions.cpp
+g++ -c UnitEntryPoint.cpp
+g++ -o Functions.dll UnitEntryPoint.o UnitFunctions.o
